@@ -1,0 +1,2 @@
+module King_01 {
+}
