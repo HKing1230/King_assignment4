@@ -3,6 +3,8 @@ package King_problem1;
 import java.security.SecureRandom;
 import java.util.Scanner;
 
+
+
 public class CAI5 {
 	private void quiz() {
 		int difficulty = readDifficulty();
